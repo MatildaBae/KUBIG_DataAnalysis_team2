@@ -1,6 +1,6 @@
 # KUBIG_DataAnalysis_team2
 
-# Kaggle Code Review and Study
+# 🖥️ Kaggle Code Review and Study
 
 **Team Members: Jiyun Kang, Jiwon Bae, Dongju Lee, Hayoun Jung**  
 *Hosted by Korea University Data Science/AI Society (KUBIG)*
